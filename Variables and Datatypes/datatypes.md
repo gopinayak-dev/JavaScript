@@ -119,5 +119,5 @@ There are **three main non-primitive types**:
 <br>
 <br>
 
-📘 Author: Gopi Nayak <br>
+📘 Author: **Gopi Nayak** <br>
 📅 Last Updated: November 2025
