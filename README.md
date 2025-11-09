@@ -50,7 +50,7 @@ You can run these JavaScript examples in **two ways:**
 ### 💻 Option 2: Using Visual Studio Code + Node.js
 1. Clone this repository:
    ```bash
-   https://github.com/gopinayak-dev/JavaScript.git
+   git clone https://github.com/gopinayak-dev/JavaScript.git
    cd javascript
 2. Open it in VS Code.
 
